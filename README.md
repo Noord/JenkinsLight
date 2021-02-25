@@ -1,7 +1,7 @@
 # JenkinsLight
 Aşırı Yüksek Bütçeli Jenkins Notifier
 
-Catlight in asiri cimri fiyatlandirma politikasina sinirlendigim icin bir aksamustu implement ettim.
+Catlight in asiri hasis fiyatlandirma politikasina sinirlendigim icin bir aksamustu implement ettim.
 
 Projenin yaptiklari.
 - Kullanici adi ve sifrenizle herhangi bir jenkins serverdaki buildlari poll eder.
@@ -25,7 +25,7 @@ Guzel gorunen ama pahali catlight
 
 ![catlight](screenshots/clight.jpg)
 
-Fonksiyonel ama grafik cimrisi jenkinslight
+Fonksiyonel ama grafik yoksunu jenkinslight
 
 ![jenkinslight](screenshots/jlight.jpg)
 
