@@ -5,6 +5,8 @@ VisualStudioVersion = 15.0.27004.2002
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsLight", "JenkinsLight\JenkinsLight.csproj", "{F35651A2-7BA7-4A2C-B30D-22921BB4CB43}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JenkinsClient", "JenkinsClient\JenkinsClient.csproj", "{E3B91B37-3D5C-494B-B24D-0ECC75B4CAB0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{F35651A2-7BA7-4A2C-B30D-22921BB4CB43}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F35651A2-7BA7-4A2C-B30D-22921BB4CB43}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F35651A2-7BA7-4A2C-B30D-22921BB4CB43}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3B91B37-3D5C-494B-B24D-0ECC75B4CAB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3B91B37-3D5C-494B-B24D-0ECC75B4CAB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3B91B37-3D5C-494B-B24D-0ECC75B4CAB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3B91B37-3D5C-494B-B24D-0ECC75B4CAB0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
